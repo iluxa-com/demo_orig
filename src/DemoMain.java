@@ -8,6 +8,9 @@ public class DemoMain {
     // hello3
     // hello4
     System.out.println("Bonus2");
+    System.out.println("Bonus2");
+    System.out.println("Bonus2");
+    System.out.println("Bonus2");
     MyFunction.M();
     //     after
   }
