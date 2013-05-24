@@ -7,6 +7,10 @@ public class DemoMain {
 
 
     System.out.println("Bonus");
+    // hello
+    // hello
+    // hello
+    // hello
     System.out.println("Bonus2");
     MyFunction.M();
 
