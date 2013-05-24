@@ -12,6 +12,6 @@ public class DemoMain {
     System.out.println("Bonus2");
     System.out.println("Bonus2");
     MyFunction.M();
-    //     after
+    //     afXXXXter
   }
 }
