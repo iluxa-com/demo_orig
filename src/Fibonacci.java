@@ -1,3 +1,7 @@
+/*
+This is fibonacchi function
+ */
+
 public class Fibonacci {
     public static long fib(int n) {
         if (n <= 1) return n;

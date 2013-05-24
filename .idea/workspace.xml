@@ -23,15 +23,18 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="336dc758-5505-4f73-89ff-77ebbc4b24cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DemoMain.java" afterPath="$PROJECT_DIR$/src/DemoMain.java" />
+    <list id="336dc758-5505-4f73-89ff-77ebbc4b24cc" name="Default" comment="XXX" />
+    <list default="true" id="ab9aec04-4f4f-440f-8da8-0162c207bc04" name="Ignore" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Fibonacci.java" afterPath="$PROJECT_DIR$/src/Fibonacci.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Quicksort.java" afterPath="$PROJECT_DIR$/src/Quicksort.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demoProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369421286964" ignored="false" />
-    <file path="$PROJECT_DIR$/../upsource/.idea/workspace.xml" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369426719827" ignored="false" />
-    <file path="/DemoMain.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369426762643" ignored="false" />
+    <file path="/Dummy.txt" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369431716527" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/.idea/workspace.xml" changelist="ab9aec04-4f4f-440f-8da8-0162c207bc04" time="1369431724528" ignored="false" />
+    <file path="/DemoMain.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369426817598" ignored="false" />
     <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/contentView/ContentViewListener.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369418446155" ignored="false" />
     <file path="/ContentViewListener.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369418442922" ignored="false" />
     <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/revisionDiff/RevisionDiffActivity.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369418621247" ignored="false" />
@@ -43,12 +46,41 @@
     <file path="/ContentViewControllerImpl.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369418738352" ignored="false" />
     <file path="/ContentViewImpl.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369418754100" ignored="false" />
     <file path="$PROJECT_DIR$/../upsource/backend/src/com/jetbrains/upsource/backend/server/facade/UpsourceConnection.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369426120334" ignored="false" />
-    <file path="/fragment.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369425688278" ignored="false" />
+    <file path="/fragment.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369428058959" ignored="false" />
     <file path="$PROJECT_DIR$/../upsource/frontend/frontend-server/src/com/jetbrains/upsource/frontend/server/handlers/rpc/impl/commands/CodeReview/CrSearchByHashTagsCommandImpl.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369421181747" ignored="false" />
     <file path="/CrSearchByHashTagsCommandImpl.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369421180126" ignored="false" />
     <file path="/UpsourceConnection.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369421152614" ignored="false" />
     <file path="$PROJECT_DIR$/../upsource/backend-cli/src/com/jetbrains/upsource/backend/cli/Analyzer.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369426467294" ignored="false" />
     <file path="$PROJECT_DIR$/../upsource/backend/src/com/jetbrains/upsource/backend/server/core/DiffFile.java" changelist="336dc758-5505-4f73-89ff-77ebbc4b24cc" time="1369426120334" ignored="false" />
+    <file path="/a.dummy" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427247962" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/upsourceComplexPage/UpsourceComplexPageActivity.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369431221025" ignored="false" />
+    <file path="/UpsourceComplexPageActivity.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369428039951" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/upsourceComplexPage/ShowTextSearchEvent.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369431221025" ignored="false" />
+    <file path="/ShowTextSearchEvent.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427512146" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/upsourceComplexPage/ShowHashTagSearchEvent.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427964922" ignored="false" />
+    <file path="/ShowHashTagSearchEvent.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427763653" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/upsourceComplexPage/ShowTextSearchEventHandler.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369431221025" ignored="false" />
+    <file path="/ShowTextSearchEventHandler.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427543245" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/upsourceComplexPage/ShowHashTagSearchEventHandler.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427602539" ignored="false" />
+    <file path="/ShowHashTagSearchEventHandler.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369427602539" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/upsourceComplexPage/HashTagSearchParams.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369428833794" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/textSearch/HashTagSearchController.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369428562812" ignored="false" />
+    <file path="/HashTagSearchController.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429115606" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/commentSearch/HashTagSearchController.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429119526" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/commentSearch/FindUsagesViewImpl.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429140790" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/commentSearch/FindUsagesView.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369428706590" ignored="false" />
+    <file path="/FindUsagesView.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369428843888" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/commentSearch/HashTagsUsagesView.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369430119266" ignored="false" />
+    <file path="/FindUsagesViewImpl.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429529352" ignored="false" />
+    <file path="/HashTagsUsagesView.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429121837" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/commentSearch/HashTagSearchViewImpl.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429153656" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/commentSearch/HashTagUsagesViewImpl.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369430127413" ignored="false" />
+    <file path="$PROJECT_DIR$/../upsource/frontend/frontend-ui/src/com/jetbrains/upsource/frontend/application/client/views/symbolSearch/SearchSymbolsPanel.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369431221025" ignored="false" />
+    <file path="/SearchSymbolsPanel.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369429544963" ignored="false" />
+    <file path="/HashTagUsagesViewImpl.java" changelist="a7251d65-5e05-4e41-8840-f7b38850b652" time="1369430109557" ignored="false" />
+    <file path="/Fibonacci.java" changelist="ab9aec04-4f4f-440f-8da8-0162c207bc04" time="1369431758375" ignored="false" />
+    <file path="/HelloWorld.java" changelist="ab9aec04-4f4f-440f-8da8-0162c207bc04" time="1369431768655" ignored="false" />
+    <file path="/Quicksort.java" changelist="ab9aec04-4f4f-440f-8da8-0162c207bc04" time="1369431776319" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,20 +142,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DemoMain.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DemoMain.java">
+      <file leaf-file-name="HelloWorld.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="259" selection-end="259" vertical-scroll-proportion="0.2434457">
+            <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFunction.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyFunction.java">
+      <file leaf-file-name="Fibonacci.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="77" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="1" column="9" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quicksort.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Quicksort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="21" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,6 +204,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/MyFunction.java" />
         <option value="$PROJECT_DIR$/src/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/HashMap.java" />
+        <option value="$PROJECT_DIR$/src/sds.java" />
+        <option value="$PROJECT_DIR$/src/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/Quicksort.java" />
       </list>
     </option>
   </component>
@@ -186,26 +245,14 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="demoProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demoProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="upsource-demo-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hello.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -234,8 +281,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,9 +299,9 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.DemoMain">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -352,6 +397,8 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="336dc758-5505-4f73-89ff-77ebbc4b24cc" name="Default" comment="" />
+      <changelist id="" name="New changelist" comment="" />
+      <changelist id="ab9aec04-4f4f-440f-8da8-0162c207bc04" name="Ignore" comment="" />
       <created>1339172610848</created>
       <updated>1339172610848</updated>
     </task>
@@ -395,14 +442,30 @@
       <created>1369418032693</created>
       <updated>1369418032693</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="XXX">
+      <created>1369426769866</created>
+      <updated>1369426769866</updated>
+    </task>
+    <task id="LOCAL-00012" summary="XXX">
+      <created>1369426824003</created>
+      <updated>1369426824003</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New changelist">
+      <created>1369426898135</created>
+      <updated>1369426898135</updated>
+    </task>
+    <task id="LOCAL-00014" summary="files">
+      <created>1369431718923</created>
+      <updated>1369431718923</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1355" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32955465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -411,13 +474,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17064439" sideWeight="0.67125505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17064439" sideWeight="0.6704453" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -432,7 +495,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
@@ -470,7 +533,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 syms" />
+    <option name="LAST_COMMIT_MESSAGE" value="files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -493,6 +556,9 @@
     <MESSAGE value="change2" />
     <MESSAGE value="comments" />
     <MESSAGE value="10 syms" />
+    <MESSAGE value="XXX" />
+    <MESSAGE value="New changelist" />
+    <MESSAGE value="files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -502,58 +568,67 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="188" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="77" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="42" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="105" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyFunction.java">
+    <entry file="file://$PROJECT_DIR$/src/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="77" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+        <state line="4" column="21" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="9" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="259" selection-end="259" vertical-scroll-proportion="0.2434457">
+        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
