@@ -3,7 +3,7 @@ public class DemoMain {
     System.out.println(hello.namespace.getHelloString());
 
 
-    //before
+    //before1234567890
 
 
     System.out.println("Bonus");
