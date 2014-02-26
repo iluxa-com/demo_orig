@@ -2,7 +2,7 @@
 
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("41 bottles of beer on the wall. 41 bottles of beer! Take one down, pass it around, 40 bottles of beer on the wall!");
+    System.out.println("40 bottles of beer on the wall. 40 bottles of beer! Take one down, pass it around, 39 bottles of beer on the wall!");
     return 0;
   }
 }
