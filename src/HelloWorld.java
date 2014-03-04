@@ -7,6 +7,7 @@ This is code widget sample.
 
 public class HelloWorld {
   public static void main(String[] args) {
+    //This is comment that is not in widget.
     System.out.println("Hello word!");
     System.out.println("bye-bye");
     System.out.println("one more commit");
