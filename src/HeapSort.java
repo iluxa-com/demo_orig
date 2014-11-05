@@ -2,6 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class HeapSort {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
@@ -10,8 +11,6 @@ public class HeapSort {
     for (int i = 0; i < n; i++) {
       array[i] = scanner.nextInt();
     }
-
-
     HeapUtils.sort(array);
     System.out.println(Arrays.toString(array));
 
@@ -25,8 +24,8 @@ class HeapUtils {
     while (2 * pos + 1 < size) {
       int t = 2 * pos + 1;
       //??????? ? pos
-      if (2 * pos + 2 < size && array[2 * pos + 1] < array[2 * pos + 2]) {
-        t = 2 * pos + 2;
+      if (t + 1 < size && array[t] < array[t + 1]) {
+        t = t + 1;
       }
       if (array[pos] < array[t]) {
         swap(array, pos, t);
