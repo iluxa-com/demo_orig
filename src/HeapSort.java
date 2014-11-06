@@ -13,9 +13,7 @@ public class HeapSort {
     }
     HeapUtils.sort(array);
     System.out.println(Arrays.toString(array));
-
   }
-
 }
 
 
@@ -23,7 +21,6 @@ class HeapUtils {
   public static void heapify(int[] array, int size, int pos) {
     while (2 * pos + 1 < size) {
       int t = 2 * pos + 1;
-      //??????? ? pos
       if (t + 1 < size && array[t] < array[t + 1]) {
         t = t + 1;
       }
